@@ -60,8 +60,7 @@ This project aims to minimize road accidents caused by driver drowsiness. Using 
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-   ```bash
+1. Clone the repository: "https://github.com/PrajwalMurali/driver_drowsiness" bash
    git clone 
    cd driver-drowsiness-detection
 
